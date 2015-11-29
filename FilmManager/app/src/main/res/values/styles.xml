@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#009688</item>
+        <!--   darker variant for the status bar and contextual app bars -->
+        <item name="colorPrimaryDark">#00796B</item>
+        <!--   theme UI controls like checkboxes and text fields -->
+        <item name="colorAccent">#FFC107</item>
+    </style>
+
+    <style name="AppTheme2" parent="AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#256500</item>
+        <!--   darker variant for the status bar and contextual app bars -->
+        <item name="colorPrimaryDark">#112233</item>
+        <!--   theme UI controls like checkboxes and text fields -->
+        <item name="colorAccent">#DA9AFF</item>
+    </style>
+
+</resources>
